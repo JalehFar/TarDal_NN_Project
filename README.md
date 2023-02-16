@@ -25,6 +25,16 @@ The two discriminators DT and DD share the same network structur.
 
 <hr/>
 
+## Plot losses
+
+L f = LSSIM + αLpixel + βL adv f
+
+where LSSIM denotes structure similarity loss. To balance the pixel intensity distribution of source images, they introduce a pixel loss based on the saliency degree weight (SDW). The adversarial loss functions of these discriminators calculate the Wasserstein divergence to mutually identify whether the foreground thermal targets and background texture details are realistic
+
+![image](https://user-images.githubusercontent.com/117992631/219351625-0e20f36c-92c1-49be-8f09-5e7a82c6963a.png)
+
+<hr/>
+
 ## Generated images
 
 ![image](https://user-images.githubusercontent.com/117992631/219350518-8c610d84-c94a-44c8-843e-17dc696cf3c5.png)
