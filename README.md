@@ -18,6 +18,13 @@ I performed evaluations on M3FD dataset which contains 4200 aligned and register
 
 <hr/>
 
+## Benchmark
+M3FD: 4200 aligned and registered 1024×768 pairs
+![Preview](https://user-images.githubusercontent.com/117992631/219354975-3b70dfa2-87d0-4122-a674-5264af02de87.gif)
+
+
+<hr/>
+
 ## Generator and discriminator architecture
 
 The two discriminators DT and DD share the same network structur.
