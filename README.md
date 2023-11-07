@@ -1,5 +1,7 @@
 ## Target-aware Dual Adversarial Learning (TarDAL)
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Yr5rCwTROw302Bna-kYpaho8CSvOpqi3)
+
 The paper [Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection](http://https://arxiv.org/abs/2203.16220v1 "Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection") addresses the issue of fusing infrared and visible images that appear differently for object detection. Aiming at generating an image of high visual quality, which preserves structural information of targets from the infrared and textural details from the visible images. detection-oriented fusion.
 
 ![Image](https://user-images.githubusercontent.com/117992631/219347521-ee15413c-4f02-4d37-89b1-d2e5c1244ea0.png)
